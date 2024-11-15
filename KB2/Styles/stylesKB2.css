@@ -75,3 +75,9 @@ footer{
     font-size: 2vh;
     text-decoration: underline #f27932;
 }
+p{
+    color: #fff;
+}
+p:hover{
+    animation: glow 1s infinite;
+}
